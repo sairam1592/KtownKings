@@ -6,8 +6,7 @@ App released in Google play store, please find the URL to check out the same.
 https://play.google.com/store/apps/details?id=com.ktown.admin.ktownkings
 
 App details:
-1. Makes use of Android material design concepts
-*Card view ,Tile view, List View, CollapsingToolbarLayout,Navigation Drawer.
+1. Makes use of Android material design concepts such as Card view ,Tile view, List View, CollapsingToolbarLayout,Navigation Drawer.
     
 2. Android volley library for faster network calls.
 
